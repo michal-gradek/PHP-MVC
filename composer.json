@@ -1,0 +1,10 @@
+{
+    "name": "project/first",
+    "authors": [
+        {
+            "name": "mgradek",
+            "email": "michal.grradek@gmail.com"
+        }
+    ],
+    "require": {}
+}
